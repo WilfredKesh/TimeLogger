@@ -37,6 +37,7 @@ group :development, :test do
   gem 'byebug'
   gem 'capybara'
   gem 'rspec-rails', '~>3.0'
+  gem 'database_cleaner'
 end
 
 group :development do
